@@ -24,6 +24,6 @@ public class CardMain {
 			System.out.println();
 		}
 		
-		
 	}
 }
+
